@@ -1,1 +1,2 @@
 Version control is important beacuase it acts as a safety net. It lets people to make changes to the codes without overwriting the other's work. It also help the others revert their works if there is an error. 
+The advantages of git is that it is more organized and easy to understand. Whilst doing it manually, it'll be way harder to manage. Git is made for that purpose.
