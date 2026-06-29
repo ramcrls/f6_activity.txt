@@ -1,0 +1,1 @@
+Version control is important beacuase it acts as a safety net. It lets people to make changes to the codes without overwriting the other's work. It also help the others revert their works if there is an error. 
